@@ -1,0 +1,11 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Trabalho de Paradigma Orientado a Objetos
+${licensePrefix} Método de inserção em arquivo TXT usando POO
+${licensePrefix}Paradigmas de Linguagens de Programação
+${licensePrefix}Copyright 2017 by Victor Hugo, Franciscone Luiz, Lucas Hideki
+${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
